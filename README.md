@@ -1,2 +1,0 @@
-# Tradyaar-
- full stack project
